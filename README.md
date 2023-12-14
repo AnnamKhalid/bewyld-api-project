@@ -32,8 +32,8 @@ BeWyld Train & Meal Prep Coach is a dynamic web application designed to empower 
    - Users can explore an "About Me" page, providing insights into the background, mission, and values of the BeWyld Train & Meal Prep Coach project.
    - This transparency builds trust and fosters a connection between the users and the application.
 
-7. **Meal Pack Model:**
-   - The application includes a model that showcases bulk or lean meal packs sourced from the BeWYLD website's shop.
+7. **Meal Pack Modal:**
+   - The application includes a modal that showcases bulk or lean meal packs sourced from the BeWYLD website's shop.
    - Users can visually explore meal options that align with their fitness goals, promoting a holistic approach to health.
 
 8. **PDF Link to BeWYLD Cafe Menu:**
